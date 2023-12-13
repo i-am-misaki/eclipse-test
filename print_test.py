@@ -7,3 +7,5 @@ Created on 2023/12/12
 print("hello world")
 print("cloudy day")
 print("日本語")
+print(3+4)
+print("succes")
